@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Asistencia JFHL</string>
+
+    <!-- Textos de la interfaz -->
+    <string name="msg_inicialJFHL">Escribe tus datos para registrarte</string>
+    <string name="hint_nombreJFHL">Ingresa tu nombre</string>
+    <string name="hint_matriculaJFHL">Ingresa tu matricula</string>
+    <string name="btn_registrarJFHL">Registrar</string>
+    <string name="btn_registrar_otroJFHL">Registrar otro</string>
+    <string name="btn_limpiarJFHL">Limpiar</string>
+    <string name="btn_tema_oscuroJFHL">Modo oscuro</string>
+    <string name="btn_tema_claroJFHL">Modo claro</string>
+
+    <!-- Mensajes de validacion -->
+    <string name="val_nombre_vacioJFHL">Escribe tu nombre</string>
+    <string name="val_nombre_cortoJFHL">El nombre es demasiado corto</string>
+    <string name="val_matricula_vaciaJFHL">Escribe tu matricula</string>
+    <string name="val_matricula_largoJFHL">La matricula debe tener 7 digitos</string>
+
+    <!-- Punto extra (opcional)-->
+    Se sacó la línea del contador a strings.xml usando los marcadores
+    de posición %1$s para el nombre, %2$s para la matrícula y %3$d para el número de asistente.
+    tvMensaje.text = getString(R.string.msg_registradoJFHL, nombre, matricula, contadorAsistentes)
+
+    <string name="msg_registradoJFHL">Registrado: %1$s (%2$s)\nAsistente numero %3$d</string>
+</resources>

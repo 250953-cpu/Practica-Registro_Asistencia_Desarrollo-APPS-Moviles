@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Mi paleta: D = 3 -->
+    <color name="primarioJFHL">#7A2E3C</color>
+    <color name="acentoJFHL">#E8C46A</color>
+    <color name="fondoJFHL">#F4F6F7</color>
+    <color name="textoJFHL">#15202B</color>
+    <color name="textoBotonJFHL">#FFFFFF</color>
+
+</resources>

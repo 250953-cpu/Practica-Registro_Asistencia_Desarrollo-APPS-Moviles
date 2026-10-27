@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primarioJFHL">#E89AA7</color>
+    <color name="acentoJFHL">#E8C46A</color>
+    <color name="fondoJFHL">#15202B</color>
+    <color name="textoJFHL">#F4F6F7</color>
+    <color name="textoBotonJFHL">#15202B</color>
+</resources>
